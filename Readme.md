@@ -9,7 +9,7 @@ Welcome to the **GSAP Course Documentation** repository! This repository tracks 
 Write the following commands on your terminal to clone this repository, so that you can access and edit the notes locally.
 
 ```bash
-git clone https://github.com/your-repository-link.git
+git clone https://github.com/Bloivating-Major/-GSAP-Learn-What-Matters-.git
 ```
 
 ---
@@ -29,8 +29,7 @@ git clone https://github.com/your-repository-link.git
 To clone this repository for your local use, use the following commands:
 
 ```bash
-git clone https://github.com/your-repository-link.git
-cd GSAP-Course-Documentation
+git clone https://github.com/Bloivating-Major/-GSAP-Learn-What-Matters-.git
 ```
 
 ---
