@@ -41,7 +41,7 @@ git clone https://github.com/Bloivating-Major/-GSAP-Learn-What-Matters-.git
 <details>
 <summary style="display: inline; font-size: 15px; font-weight: 700; cursor: pointer;" title="Click to Expand">Click to Lecture 01 Details</summary>
 
-## 📚 [Lecture 1 - Introduction to GSAP and Basics](./Create%20Animation%20Lecture%201/Readme.md)
+## 📚 [Lecture 1 - Introduction to GSAP and Basics](./Lecture%2001%20Creating%20Animations%20Base/Readme.md)
 
 ### 💻 [**1.1 - What is GSAP**]
 
