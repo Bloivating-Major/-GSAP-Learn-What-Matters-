@@ -77,6 +77,40 @@ git clone https://github.com/Bloivating-Major/-GSAP-Learn-What-Matters-.git
 
 </details>
 
+### Lecture 2 - Using Scroll Trigger
+
+<details>
+<summary style="display: inline; font-size: 15px; font-weight: 700; cursor: pointer;" title="Click to Expand">Click to Lecture 02 Details</summary>
+
+## 📚 [Lecture 2 - Using Scroll Trigger](./Lecture%2002%20Use%20ScrollTrigger/Readme.md)
+
+### 💻 [**2.1 - Why Scroll Trigger?**]
+
+> **`Topics Covered:`**
+> - Explanation of issues with delay-based animations.
+> - Importance of triggering animations based on user scroll.
+
+### 💻 [**2.2 - Adding Scroll Trigger**]
+
+> **`Topics Covered:`**
+> - Importing GSAP and ScrollTrigger CDNs.
+> - Using `scrollTrigger` property in animations.
+> - Triggering animations when elements come into view.
+
+### 💻 [**2.3 - Scroll Trigger Properties**]
+
+> **`Topics Covered:`**
+> - Key properties like `trigger`, `scroller`, `markers`, `start`, `end`, and `scrub`.
+> - Explanation of smooth animations with `scrub` values.
+
+### 💻 [**2.4 - Pin Property in Scroll Trigger**]
+
+> **`Topics Covered:`**
+> - Usage of the `pin` property to create fixed elements.
+> - Triggering animations on parent elements.
+
+</details>
+
 ---
 
 ## 📖 **Resources**
